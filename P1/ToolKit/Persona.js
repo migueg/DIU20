@@ -28,35 +28,35 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Name: "Nathan Wheeler",
+				Photo: "Nathan.png",
+				Quote: "El mundo es como un libro, y los que no viajan, solo leen una página",
+				Age: 25,
+				Occupation: "Estudiante de historia",
+				Family: "Soltero",
+				Location: "Triana , Sevilla",
+				Character: "Le apasiona viajar y aprender otras costumbres",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Disfrutar del tiempo libre, viajar", "Conocer a gente nueva ", "Aprender las constumbres autoctonas", "Aprender idiomas","Viajar de manera low cost"],
+				Frustrations: ["Le encanta viajar, pero no soporta conocer nuevos lugares solo", "Necesita una forma de alojamiento más barata", "Solo habla inglés"],
+				Bio: "Es un estudiante de historia de Dallas(EEUU). Vino a Sevilla para empezar una nueva aventura desde el sur de España. LLeva 3 dias en Sevilla. Aqui no conoce a nadie y se encuentra alojado en un hostal ",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "TIC/Internet", Value: 4 },
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: " Ha termiando el grado y ha decidido comenzar un año sabático para viajar,aunque no dispone de mucho dinero. Necesitaba un cambio de aires en su vida y conocer otras personas",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
+					{ Name: "Publicidad Tradicional", Value: 2 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
 				]
 			},
@@ -69,35 +69,35 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Maria González",
+				Photo: "Maria.png",
+				Quote: "Me encanta conocer gente nueva",
+				Age: 45,
+				Occupation: "Funcionaria en la administración",
+				Family: "Casada y sin hijos.",
+				Location: "Sevilla",
+				Character: "Estrovertida, inquita y le gusta experimentar.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Salir de la rutina.", "Vivir nuevas experiencias.", "Cambiar su manera de ver la vida.", "Compartir experiencias con su pareja."],
+				Frustrations: ["Vivir en una rutina constante.", "Quiere a su pareja, pero se encuentran solos.", "No puede viajar, pero le encantaría conocer la forma de vida en otros paises.", "Solo se relaciona con su marido."],
+				Bio: "Maria es una funcionaria para la administración pública que lleva casada 15 años con Juan , su marido. No tiene hijos.Es original de Madrid y apenas a viajado, ya que su situación económica y su trabajo no lo permiten. Maria apenas tiene amigos porque se mudó a Sevilla hace un año y la única persona con la que se relaciona en Sevilla es su marido. Vive en una casa en el centro de Sevilla",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "TIC/Internet", Value:  3},
 					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "RRSS", Value: 1 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
                 Contextos:   "The goals this user hopes to achieve." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
 					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
 				]
 			}
