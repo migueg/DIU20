@@ -30,54 +30,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Juan Lopez",
-                Photo: "man.png",
+				Name: "Nathan Wheeler",
+                Photo: "Nathan.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
+                goal1: "Quiere comenzar un año sabático por Europa",
                 touch1: "agenda",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                con1: "administrar el dinero y buscar gente que le ayude en el extrangero",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "Busca en couchsurfing un anfitrión en Sevilla",
                 touch2: "ordenador",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                con2: "Exceso de anfitriones, de los cuales no aparece ninguna opinión ni valoración de ningún tipo ",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Busca un grupo que recomiende anfitriones que además le ayuden a conocer Sevilla",
+                touch3: "ordenador",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                con3: "Gran cantidad de grupos, con poca actividad que no solucionan sus problemas",
+                ima3: "cartoon-why.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Observa que hay anfitriones verificados por el portal",
                 touch4: "ordenador",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                con4: "Al estar verificados le aporta seguridad",
+                ima4: "cartoon-PCSurprised.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Se encuentra 3 opciones que encajan en sus preferencias y se encuentran cerca de algún evento",
+                touch5: "móvil (webapp)",
+                feel5: "1",
+                con5: "No puede enviarle un mensaje porque necesita completar mucha unformación de su perfil, algunas como la verificación tardan en obtenerse. Su experiencia tiene que esperar",
+                ima5: "cartoon-KO.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Consigue completar el perfil. Ahora toca esperar a que me constesten!",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                feel6: "2",
+                con6: "No sabe con certeza si recibirá una respuesta y podra viajar lo necesita saber cuanto antes para reservar el vuelo",
                 ima6: "cartoon-resting.png",
                 
 			},
@@ -88,55 +88,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Maria González",
+                Photo: "Maria.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Tras una conversación con una estudiante de erasmus que realizo una gestión en la secretaría le atrae la idea de ser anfitriona en couchsurfing ",
+                touch1: "boca a boca",
+                feel1: "4",
+                con1: "No quiere gente que utilize el portal para aprovecharse de su hospitalidad ",
+                ima1: "cartoon-speaking.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Registrarse en couch surfing",
+                touch2: "Ordenador(webapp)",
+                feel2: "2",
+                con2: "No tiene facebook y necesita aportar mucha información debido a no tener esta red social. Además tiene que pagar para verificar su cuenta",
+                ima2: "cartoon-PChard.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "No recibe ninguna solicitud de ningún viajero, ya que es nueva en el portal , asi que decide buscar un viajero",
+                touch3: "Ordenador (webapp)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                con3: "Ella busca una chica que este en edad universitaria , pero no puede aplicar criterios en la busqueda , asi que tiene que buscar entre multitud de perfiles",
+                ima3: "cartoon-PCcrying.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
+                goal4: "Encuentra un perfil que encaja con su prototipo de usuario",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "El perfil se encuentra verificado , pero no posee ni valoraciones ni recomendaciones",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
+                goal5: "Le envia un mensaje al viajero aceptando su oferta ",
                 touch5: "Móvil (webapp)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                con5: "Han pasado ya varios dias y no obtiene contestación, asi que se la manda a otro viajero mas",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Recibe la contestación de ambos y se decanta por un viajero",
+                touch6: "Ordenador (buzón web)",
+                feel6: "4",
+                con6: "Ahora tiene que esperar otra última confirmación por parte del viajero a través de la plataforma",
+                ima6: "cartoon-PCSurprised.png",
                 
                 
                 
