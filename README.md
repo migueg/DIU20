@@ -31,6 +31,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las aplicaciones asignadas son aplicaciones que tienen como objetivo común ofrecer una manera alternativa de alojamiento. Todas tienen en común que necesitas estar registrado para poder acceder a la funcionalidad . Al ser un método nuevo de alojamiento todas las aplicaciones ofrecen una descripción de lo que ofrecen y los pasos para llevarlo acabo. Es imprescindible en este tipo de aplicaciones un buscador, en el cuál introduces la localidad o lugar donde quieres alojarte y te ofrece las posibles alternativas. El estilo de estas aplicaciones es muy visual y en todo momento ofrece imágenes de los anfitriones y alojamientos para aportar mas confianza . Además incluyen valoraciones ,la posibilidad de contactar con el anfitrión a través de la aplicación , y por supuesto enviar una soicitud de alojamiento. Por último una característica fundamental común es que entodas puedes optar dos roles, el de anfitrión o el de huesped.
+He elegido couchsurfing porque además de las características descritas, posee la posibilidad de unirse a grupos o unirse eventos en la ciudad en la que te hospedas. También me he basado en que el disño no está tan cuidado como en otras aplicaciones como badi, ya que couchsurfing es menos conocida y está en desarrollo , por lo que a la hora del analisis hay mas puntos en los que centrarse.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
