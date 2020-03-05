@@ -52,14 +52,11 @@ He elegido couchsurfing porque además de las características descritas, posee 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
+
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
->>> Usability Review: [Document](https://github.com/migueg/DIU20/blob/master/P1/Usability-review-template.xls)
->>> Valoración final: 63
->>>> Esta valor es dado ya que la interfaz es sencilla y las funcionalidades están a simple vista, pero presenta problemas 
+>>> - Usability Review: [Document](https://github.com/migueg/DIU20/blob/master/P1/Usability-review-template.xls)
+>>> - Valoración final: 63
+>>> - Comentario: Esta valor es dado ya que la interfaz es sencilla y las funcionalidades están a simple vista, pero presenta problemas 
 que pueden ensuciar la experiencia en el diseño. A pesar de presentar un diseño visual bastante claro,sencillo e intuitivo hay un exceso de información no verificada que puede hacer desconfiar al usuario. Además para los usuarios nuevos puede suponer un obstáculo poder 
 empezar a disfrutar de la aplicación dado que hay que realizar muchas tareas previas. Por último cabe destacar la auencia de busquedas
 personalizadas con filtros cosa común en este tipo de interfaces.
