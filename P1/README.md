@@ -18,28 +18,47 @@
 
 >>>Para el servicio de compartir alojamiento , se ha evaluado Badi, CouchSurfing, ComparteTuPiso:
 >>>>Las características de Badi son:
+>>>>
 >>>>-Ofrece un alquiler de habitaciones
+>>>>
 >>>>-Puedes alquilar una habitación o poner una habitación de tu casa/piso en alquiler.
+>>>>
 >>>>-Dispone de servicio de mensajes entre usuarios
+>>>>
 >>>>-Dispone de confirmación y pago de reservas
+>>>>
 >>>>-Búsqueda por ciudades
 >>>>
 >>>>Las características de CouchSurfing son:
+>>>>
 >>>>-Ofrece un servicio de alojamiento gratuito a cambio de experiencias.
+>>>>
 >>>>-Dispone de servicio de mensajes entre usuarios
+>>>>
 >>>>-Dispone de envio y confirmación de solicitudes
+>>>>
 >>>>-Dispone de grupos de usuarios
+>>>>
 >>>>-Dispone de buscador por ciudad
+>>>>
 >>>>-Dispone de dos roles anfitrión o viajero
+>>>>
 >>>>-Dispone de eventos entre usuarios
+>>>>
 >>>>-Dispone de verificación de usuarios
 >>>>
 >>>>Las características de Compartetupiso son:
+>>>>
 >>>>-Ofrece un servicio de alojamiento a cambio de un servicio o dinero.
+>>>>
 >>>>-Dispone de servicio de mensajes entre usuarios
+>>>>
 >>>>-Dispone de un servicio de anuncios para ofertar tu piso
+>>>>
 >>>>-Dispone de buscador por ciudad
+>>>>
 >>>>-Dispone de dos roles anfitrión o viajero aunque independientes, no puedes ser los dos a la vez
+>>>>
 >>>>-Dispone de verificación de usuarios
 >>>>
 >>>Como se aprecia, Couchsurfing es el servicio que proporciona mejor calidad/precio y por eso es el servicio candidato.
