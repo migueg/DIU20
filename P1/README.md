@@ -21,7 +21,7 @@
 He elegido couchsurfing porque además de las características descritas, posee la posibilidad de unirse a grupos o unirse eventos en la ciudad en la que te hospedas. También me he basado en que el disño no está tan cuidado como en otras aplicaciones como badi, ya que couchsurfing es menos conocida y está en desarrollo , por lo que a la hora del analisis hay mas puntos en los que centrarse.
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](../img/Persona.png) 1.b Persona
 -----
 
 
