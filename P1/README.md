@@ -13,7 +13,7 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 
@@ -28,7 +28,7 @@ He elegido couchsurfing porque además de las características descritas, posee 
 >>> La primera persona elegida es [Nathan](https://github.com/migueg/DIU20/blob/master/P1/Nathan.PNG). Esta persona, es un joven, que ha acabado su carrera y va a comenzar un año sabático. He elegido a esta persona porque representa el perfil de un usuario que adopta el rol de viajero o huesped , un viajero que adopta por una forma muy económica de viajar , pero que además quiere vivir nuevas experiencias con gente nueva, que le ayuden a aprender cosas, tales como el idioma.
 >>> La segunda persona es [Maria](https://github.com/migueg/DIU20/blob/master/P1/Maria.PNG). Esta persona , es una funcionaria, que tiene pocos amigos y su rutina se esta volviendo en su condena. Maria encaja perfectamente con el segundo rol, que es el de huesped , una persona que quiere vivir una nueva experiencia que cambie su vida , se encuentra sola y considera su vida monótona
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
@@ -36,7 +36,7 @@ He elegido couchsurfing porque además de las características descritas, posee 
 >>>>La experiencia de Nathan se corresponde con la experiencia de un viajero que tiene soltura con las nuevas tecnlogías, redes sociales etc.., pero a pesar de eso carece de información de este tipo de métodos y se siente desconfiado pero es su única manera de permitirse el lujo de viajar. Este tipo de usuario, investiga y después actua.
 >>>> La experiencia de Maria se corresponde con la experiencia de una persona que es novata como anfitriona y no tiene soltura con las nuevas tecnologías, actua por impulso y por las ganas de vivir una nueva experiencia. Descripe la experiencia de un usuario novato que tiene que esperar un periodo largo para poder hacer uso pleno de la funcionalidad.
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
 >>>> SE deben incluir claramente los siguientes elementos
