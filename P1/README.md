@@ -86,7 +86,6 @@
 >>> - Usability Review: [Document](https://github.com/migueg/DIU20/blob/master/P1/Usability-review-template.xls)
 >>> - Valoración final: 63
 >>> - Comentario: Esta valor es dado ya que la interfaz es sencilla y las funcionalidades están a simple vista, pero presenta problemas 
-que pueden ensuciar la experiencia en el diseño. A pesar de presentar un diseño visual bastante claro,sencillo e intuitivo hay un exceso de información no verificada que puede hacer desconfiar al usuario. Además para los usuarios nuevos puede suponer un obstáculo poder 
-empezar a disfrutar de la aplicación dado que hay que realizar muchas tareas previas. Por último cabe destacar la auencia de busquedas
-personalizadas con filtros cosa común en este tipo de interfaces.
+que pueden ensuciar la experiencia en el diseño. A pesar de presentar un diseño visual bastante claro,sencillo e intuitivo hay un exceso de información no verificada que puede hacer desconfiar al usuario. Los formularios permiten introducir errores.No hay diferenciacion entre roles de usuario, si eres anfitrión no dispones de una zona de anfitriones al igual que pasa con los viajeros.La página de incio no esta ordenada, tienes que ir bajando por la página para encontrar lo que le interesa al usuario . Por último cabe destacar la ausencia de busquedas
+personalizadas con filtros cosa común en este tipo de interfaces, aunque se permite un filtrado después de una primera búsqueda pero no es muy útil.
 

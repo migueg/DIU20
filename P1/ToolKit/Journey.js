@@ -44,7 +44,7 @@ angular.module("angular", [])
                 goal2: "Busca en couchsurfing un anfitrión en Sevilla",
                 touch2: "ordenador",
                 feel2: "2",
-                con2: "Exceso de anfitriones, de los cuales no aparece ninguna opinión ni valoración de ningún tipo ",
+                con2: "Los anfitriones no están ordenados por ningún criterio y tiene que ir uno por uno ",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
@@ -52,32 +52,32 @@ angular.module("angular", [])
                 goal3: "Busca un grupo que recomiende anfitriones que además le ayuden a conocer Sevilla",
                 touch3: "ordenador",
                 feel3: "3",
-                con3: "Gran cantidad de grupos, con poca actividad que no solucionan sus problemas",
+                con3: "No lo encuentra asi que decide crealo, tiene que completar el perfil",
                 ima3: "cartoon-why.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Observa que hay anfitriones verificados por el portal",
+                goal4: "Se da cuenta de que puede invertarse los datos y no pasa nada",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Al estar verificados le aporta seguridad",
+                feel4: "2",
+                con4: "No se fia de la veracidad de los perfiles",
                 ima4: "cartoon-PCSurprised.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias y se encuentran cerca de algún evento",
+                goal5: "No dispone de un area que le guie paso a paso para completar su perfil",
                 touch5: "móvil (webapp)",
                 feel5: "1",
-                con5: "No puede enviarle un mensaje porque necesita completar mucha unformación de su perfil, algunas como la verificación tardan en obtenerse. Su experiencia tiene que esperar",
+                con5: "No puede crear el grupo",
                 ima5: "cartoon-KO.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue completar el perfil. Ahora toca esperar a que me constesten!",
+                goal6: "Opta por enviar un mensaje a un anfitrión aunque no tiene mucha confianza",
                 touch6: "ordenador",
                 feel6: "2",
-                con6: "No sabe con certeza si recibirá una respuesta y podra viajar lo necesita saber cuanto antes para reservar el vuelo",
+                con6: "Está confuso y perdido",
                 ima6: "cartoon-resting.png",
                 
 			},
@@ -98,7 +98,7 @@ angular.module("angular", [])
                 con1: "No quiere gente que utilize el portal para aprovecharse de su hospitalidad ",
                 ima1: "cartoon-speaking.png",
                 
-                /*** PASO #2: DECICION ***/ 
+                /*** PASO #2: REGISTRO ***/ 
                 goal2: "Registrarse en couch surfing",
                 touch2: "Ordenador(webapp)",
                 feel2: "2",
@@ -110,32 +110,32 @@ angular.module("angular", [])
                 goal3: "No recibe ninguna solicitud de ningún viajero, ya que es nueva en el portal , asi que decide buscar un viajero",
                 touch3: "Ordenador (webapp)",
                 feel3: "2",
-                con3: "Ella busca una chica que este en edad universitaria , pero no puede aplicar criterios en la busqueda , asi que tiene que buscar entre multitud de perfiles",
+                con3: "No encuentra una zona en el menú para los usuarios que quieren ser anfitriones ",
                 ima3: "cartoon-PCcrying.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Encuentra un perfil que encaja con su prototipo de usuario",
-                touch4: "Móvil (webapp)",
+                goal4: "Se da cuenta de que hay un buscador que te permite buscar viajeros",
+                touch4: "Ordenador (webapp)",
                 feel4: "2",
-                con4: "El perfil se encuentra verificado , pero no posee ni valoraciones ni recomendaciones",
+                con4: "Ella quiere una chica con una serie de requisitos, pero no puede aplicar filtros en la búsqueda",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Le envia un mensaje al viajero aceptando su oferta ",
-                touch5: "Móvil (webapp)",
+                goal5: "Se da cuenta de que despues de hacer la primera búsqueda se peuden hacer algunos filtros, Asi que busca ",
+                touch5: "Odenador (webapp)",
                 feel5: "3",
-                con5: "Han pasado ya varios dias y no obtiene contestación, asi que se la manda a otro viajero mas",
+                con5: "A primera vista no encuentra información sobre el viajero",
                 ima5: "cartoon-phone-sitting.png",
 
                 
-                /*** PASO #6: CONCLUSION ***/ 
+                /*** PASO #6: CONTACTA ***/ 
                 
-                goal6: "Recibe la contestación de ambos y se decanta por un viajero",
+                goal6: "Va a contactar con el viajero",
                 touch6: "Ordenador (buzón web)",
                 feel6: "4",
-                con6: "Ahora tiene que esperar otra última confirmación por parte del viajero a través de la plataforma",
+                con6: "Consigue mandar el mensaje, pero previamente ha tenido que hacer muchos pasos",
                 ima6: "cartoon-PCSurprised.png",
                 
                 
