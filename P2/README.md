@@ -7,7 +7,7 @@ Wireframe & User flow
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
 
@@ -22,13 +22,13 @@ Wireframe & User flow
 >>> personalización para cada usuario y un mecanismo de seguridad y verficación en la información.
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c Labelling 
+![Método UX](../img/labelling.png) 2.c Labelling 
 ----
 
 
@@ -39,7 +39,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
