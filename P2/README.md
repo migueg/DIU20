@@ -24,8 +24,7 @@ Wireframe & User flow
 
 ![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
+![usertaskmatrix](https://github.com/migueg/DIU20/blob/master/P2/UserTaskmatrix.PNG)
 
 
 ![Método UX](../img/labelling.png) 2.c Labelling 
