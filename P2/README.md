@@ -30,12 +30,9 @@ Wireframe & User flow
 >>>El recuadro de verde hace referencia a una funcionalidad extra de los viajeros
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
-
+|   |   |
 |---|---|
 | **Home page**                  | Página principal del sitio. En esta se puede logearse o registrarse , además de consultar ayuda  |
-| **Experiencias certificadas**  | Ofrece videos de usuarios reales que han vivido la experiencias, tutoriales y perfiles de usuarios certificados |
-| **Ayuda**                      | En esta sección el usuario puede consultar ayuda del sitio mediante un boton de enlace a FAQS y un boton de enlace a foros de ayuda  |
-
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
