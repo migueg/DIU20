@@ -27,9 +27,12 @@ Wireframe & User flow
 ![usertaskmatrix](https://github.com/migueg/DIU20/blob/master/P2/UserTaskmatrix.PNG)
 
 ![sitemap](https://github.com/migueg/DIU20/blob/master/P2/sitemap.PNG)
->>>El recuadro de verde hace referencia a una funcionalidad extra de los viajeros
+
+
+
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
+
 |   |   |
 |---|---|
 | **Home page**                  | Página principal del sitio. En esta se puede logearse o registrarse , además de consultar ayuda  |
@@ -49,6 +52,8 @@ de acuerdo a unos criterios de ordenación|
 |**Mensajes**   |  Buzón de mensajes de la app, apereceran los mensajes recibidos en forma de chat y se podrá enviar un mensaje a otro usuario. Abrá un buscador que permite buscar al remitente solo si en esta en nuestros amigos |
 | **Verificar**  | Formulario que pedirá el dni del usuario, una dirección , un telefono móvil  |
 | **Integrar facebook**  | Nos llevará al login de facebook y una vez hecho tendremos las funcionalidades de Facebook disponibles  |
+
+
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
