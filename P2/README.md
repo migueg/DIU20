@@ -34,11 +34,11 @@ Wireframe & User flow
 |---|---|
 | **Home page**                  | Página principal del sitio. En esta se puede logearse o registrarse , además de consultar ayuda  |
 | **Experiencias certificadas**  | Ofrece videos de usuarios reales que han vivido la experiencias, tutoriales y perfiles de usuarios certificados |
-| **Ayuda**  | En esta sección el usuario puede consultar ayuda del sitio mediante un boton de enlace a FAQS y un boton de enlace a foros de ayuda  |
-| **FAQS**  | Aqui se consultan los fallos y duadas más comunes que se tienen entre los usuarios, divididas por categorias, a las cuales se responden mediante texto o con video tutoriales explicativos  |
-| **Foro**  | Este es un foro de dudas técnicas en el que el usuario publicará su duda particular para que pueda ser resuelta por otros usuarios o por trabajadores de la marca   |
-| **Grupos**  | Ofrece la posibilidad a los usuarios de crear grupos, unirse a ellos y buscarlos. La búsqueda se realizará por nombre de grupo y tendrán límite de usuarios. En estos grupos los usuarios podran intercambiar mensajes destinados a comunicar a estos. Habrá grupos oficiales controlados por la app   |
-| **Amigos** |  Ofrece un listado de los amigos que tienes en la plataforma para poder acceder a ellos facilmente, además existirá un búscador para buscar dentro de esta sección por el nombre. Si el usuario tiene Facebook integrado con la app además de los amigos que tienen en la plataforma le aparecerá aquellos amigos que tiene en Facebook que tienen la app |
+| **Ayuda**                      | En esta sección el usuario puede consultar ayuda del sitio mediante un boton de enlace a FAQS y un boton de enlace a foros de ayuda  |
+| **FAQS**                       | Aqui se consultan los fallos y duadas más comunes que se tienen entre los usuarios, divididas por categorias, a las cuales se responden mediante texto o con video tutoriales explicativos  |
+| **Foro**                       | Este es un foro de dudas técnicas en el que el usuario publicará su duda particular para que pueda ser resuelta por otros usuarios o por trabajadores de la marca   |
+| **Grupos**                     | Ofrece la posibilidad a los usuarios de crear grupos, unirse a ellos y buscarlos. La búsqueda se realizará por nombre de grupo y tendrán límite de usuarios. En estos grupos los usuarios podran intercambiar mensajes destinados a comunicar a estos. Habrá grupos oficiales controlados por la app   |
+| **Amigos**                     |  Ofrece un listado de los amigos que tienes en la plataforma para poder acceder a ellos facilmente, además existirá un búscador para buscar dentro de esta sección por el nombre. Si el usuario tiene Facebook integrado con la app además de los amigos que tienen en la plataforma le aparecerá aquellos amigos que tiene en Facebook que tienen la app |
 
 
 
