@@ -14,29 +14,28 @@ Wireframe & User flow
  ![feedback grid](https://github.com/migueg/DIU20/blob/master/P2/Feedbackgrid.PNG)
   
   
->>> A partir de esta malla se quieren reflejar tanto los problemas de la interfaz, los aspectos positivos 
->>> y nuevas propuestas que pueden hacer mejorar la interfaz. El problema principal de la aplicación es la 
->>> falta de estructura en la interfaz que puede provocar confusión por parte del usuario, además de no disponer
->>> de un método de búsqueda personalizada, ayudas a simple vista y un método de confiar en la información mostrada.
->>> Para ello se propone una clara diferenciación entre los dos tipos de usuario, además de un disposición de ayudas, 
->>> personalización para cada usuario y un mecanismo de seguridad y verficación en la información.
+ A partir de esta malla se quieren reflejar tanto los problemas de la interfaz, los aspectos positivos 
+ y nuevas propuestas que pueden hacer mejorar la interfaz. El problema principal de la aplicación es la 
+ falta de estructura en la interfaz que puede provocar confusión por parte del usuario, además de no disponer
+ de un método de búsqueda personalizada, ayudas a simple vista y un método de confiar en la información mostrada.
+ Para ello se propone una clara diferenciación entre los dos tipos de usuario, además de un disposición de ayudas, 
+ personalización para cada usuario y un mecanismo de seguridad y verficación en la información.
 
 
 ![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 ![usertaskmatrix](https://github.com/migueg/DIU20/blob/master/P2/UserTaskmatrix.PNG)
 
-
+![sitemap](https://github.com/migueg/DIU20/blob/master/P2/sitemap.PNG)
+>>>El recuadro de verde hace referencia a una funcionalidad extra de los viajeros
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+:---------------|:------------------------------------------------------------------------------|
+ **Home page**  |  Pagina principal del sitio. En ella se mostrarán el logotipo de la marca con |
+                |  un breve eslogan. Además tendrá la opción de loguearse o registrase y en la  |
+                |  parte inferior ofrecerá una sección de ayudas .                              |
+ **Experiencias ceritficadas**
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
