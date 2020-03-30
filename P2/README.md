@@ -36,6 +36,8 @@ Wireframe & User flow
 |   |   |
 |---|---|
 | **Home page**                  | Página principal del sitio. En esta se puede logearse o registrarse , además de consultar ayuda  |
+|**Experiencias certificadas**| Se muestran experiencias y vivencias de otros usuarios expertos en el metodo a traves de videos, fotos y comentarios. |
+|**Ayuda**| Sección de ayuda técnica al usuario con apartado de FAQS y un foro de duda |
 | **FAQS**                       | Aqui se consultan los fallos y duadas más comunes que se tienen entre los usuarios, divididas por categorias, a las cuales se responden mediante texto o con video tutoriales explicativos  |
 | **Foro**                       | Este es un foro de dudas técnicas en el que el usuario publicará su duda particular para que pueda ser resuelta por otros usuarios o por trabajadores de la marca   |
 | **Grupos**                     | Ofrece la posibilidad a los usuarios de crear grupos, unirse a ellos y buscarlos. La búsqueda se realizará por nombre de grupo y tendrán límite de usuarios. En estos grupos los usuarios podran intercambiar mensajes destinados a comunicar a estos. Habrá grupos oficiales controlados por la app   |
