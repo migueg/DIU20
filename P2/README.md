@@ -26,7 +26,7 @@ otra de perfiles, ambas con la posibilidad de aplicar filtros. Además habrá un
 -----
 ![usertaskmatrix](https://github.com/migueg/DIU20/blob/master/P2/UserTaskmatrix.PNG)
 
-![sitemap](https://github.com/migueg/DIU20/blob/master/P2/sitemap.PNG)
+![sitemap](https://github.com/migueg/DIU20/blob/master/P2/sitemap%20-%20copia.PNG)
 
 
 
