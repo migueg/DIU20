@@ -22,6 +22,45 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
 
+## DIU - Practica1, entregables
+
+
+
+
+- Desk research: Análisis Competencia 
+- 2 Personas 
+- 2 User Journey Map  ( 1 por persona)
+- Revisión de Usabilidad 
+
+
+# Proceso de Diseño 
+
+## Paso 1. UX Desk Research & Analisis 
+
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
+-----
+
+Para el servicio de compartir alojamiento , se ha evaluado Badi, CouchSurfing, ComparteTuPiso.
+Couchsurfing es el servicio que proporciona mejor calidad/precio y por eso es el servicio candidato.
+
+![Método UX](../img/Persona.png) 1.b Persona
+-----
+
+
+ La primera persona elegida es [Nathan](https://github.com/migueg/DIU20/blob/master/P1/Nathan.PNG). Esta persona, es un joven, que ha acabado su carrera y va a comenzar un año sabático. Representa el perfil de un usuario que adopta el rol de viajero o huesped.
+
+La segunda persona es [Maria](https://github.com/migueg/DIU20/blob/master/P1/Maria.PNG). Esta persona , es una funcionaria, que tiene pocos amigos y su rutina se esta volviendo en su condena. Maria encaja perfectamente con el segundo rol, que es el de huesped.
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
+----
+
+En esta sección se han escogido los dos típicos caso cómunes de experiencias que puede haber. La experiencia de un usuario jovén con un dominio en las tecnologías, pero que también puede ser novato en el método. En segundo lugar se ha elegido la experiencia de una persona de mediana edad con poca soltura con las nuevas tecnologías y que desconoce por completo el método.
+
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
+----
+
+ - Valoración final: 63
+ - Comentario: Esta valor es dado ya que la interfaz es sencilla y las funcionalidades están a simple vista, pero presenta problemas 
+que pueden ensuciar la experiencia en el diseño.
 
 
 
@@ -30,44 +69,27 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
+ 
+El diagrama propuesto refleja los aspectos más destacados de couchsurfing, presentando los problemas, las dudas a partir de las experiencias de María y Nathan, los aspectos positivos que tienen la app y una serie de nuevas ideas aportadas.
+Se plantea como pruepuesta de valor FREE SOFA, un módelo de aplicación para la experiencia de compartir alojamiento. Esta app contará con funcionalidad que puede requerir está experiencia, tal como , la búsqueda por filtros, notificaciones, mensajeria, perfiles de usuario etc.
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+En esta sección se presenta el sitemap de la app propuesta y la matrix de tareas de usuario que contiene la lista de tareas que puede realizar un usuario ordenadas de mayor a menor de acuerdo con la frecuencia de uso que hacen los usuarios de estas tareas. Tendremos dos grupos de usuarios el de los anfitriones y el de los viajeros.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+En esta sección se explicará que se hace en cada vista de al app.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+En esta sección se muestra el wireframe de la app propuesta. Intentando combianar la experiencia de compartir alojamiento con una red social.
 
 ## Paso 3. Make (Prototyping) 
 
