@@ -37,25 +37,25 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](../img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
 Para el servicio de compartir alojamiento , se ha evaluado Badi, CouchSurfing, ComparteTuPiso.
 Couchsurfing es el servicio que proporciona mejor calidad/precio y por eso es el servicio candidato.
 
-![Método UX](../img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) 1.b Persona
 -----
 
 
  La primera persona elegida es [Nathan](https://github.com/migueg/DIU20/blob/master/P1/Nathan.PNG). Esta persona, es un joven, que ha acabado su carrera y va a comenzar un año sabático. Representa el perfil de un usuario que adopta el rol de viajero o huesped.
 
 La segunda persona es [Maria](https://github.com/migueg/DIU20/blob/master/P1/Maria.PNG). Esta persona , es una funcionaria, que tiene pocos amigos y su rutina se esta volviendo en su condena. Maria encaja perfectamente con el segundo rol, que es el de huesped.
-![Método UX](../img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 En esta sección se han escogido los dos típicos caso cómunes de experiencias que puede haber. La experiencia de un usuario jovén con un dominio en las tecnologías, pero que también puede ser novato en el método. En segundo lugar se ha elegido la experiencia de una persona de mediana edad con poca soltura con las nuevas tecnologías y que desconoce por completo el método.
 
-![Método UX](../img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
  - Valoración final: 63
