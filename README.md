@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2.TeTic  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: App de compartir alojamiento (FREE SOFA)
 
 Descripción: Para el servicio de compartir alojamiento, se ha evaluado las web Badi, CouchSurfing, ComparteTuPiso. Se ha escogido Couchsurfing para su estudio de usabilidad. Esta web ha sido la que proporciona una funcionalidad mas completa de las evaluadas.
 
@@ -11,7 +11,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Miguel García Tenorio     :octocat:[migueg](https://github.com/migueg/DIU20)     
- * :bust_in_silhouette:  BB     :octocat:
+
 
 ----- 
 
@@ -20,17 +20,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
-
-## DIU - Practica1, entregables
-
-
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
 
 
 # Proceso de Diseño 
@@ -46,10 +35,10 @@ Couchsurfing es el servicio que proporciona mejor calidad/precio y por eso es el
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-
  La primera persona elegida es [Nathan](https://github.com/migueg/DIU20/blob/master/P1/Nathan.PNG). Esta persona, es un joven, que ha acabado su carrera y va a comenzar un año sabático. Representa el perfil de un usuario que adopta el rol de viajero o huesped.
 
 La segunda persona es [Maria](https://github.com/migueg/DIU20/blob/master/P1/Maria.PNG). Esta persona , es una funcionaria, que tiene pocos amigos y su rutina se esta volviendo en su condena. Maria encaja perfectamente con el segundo rol, que es el de huesped.
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
@@ -91,16 +80,16 @@ En esta sección se explicará que se hace en cada vista de al app.
 
 En esta sección se muestra el wireframe de la app propuesta. Intentando combianar la experiencia de compartir alojamiento con una red social.
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. TeTic UX-Case Strudy 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo 
 ----
 
 
@@ -111,7 +100,7 @@ En esta sección se muestra el wireframe de la app propuesta. Intentando combian
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
