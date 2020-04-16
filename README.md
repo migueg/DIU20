@@ -91,16 +91,16 @@ En esta sección se explicará que se hace en cada vista de al app.
 
 En esta sección se muestra el wireframe de la app propuesta. Intentando combianar la experiencia de compartir alojamiento con una red social.
 
-## Paso 3. Make (Prototyping) 
+## Paso 3. TeTic UX-Case Strudy 
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](img/landing-page.png)  3.b Logotipo 
 ----
 
 
@@ -111,7 +111,7 @@ En esta sección se muestra el wireframe de la app propuesta. Intentando combian
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Video
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
