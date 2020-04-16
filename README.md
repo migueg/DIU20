@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2.TeTic  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: App de compartir alojamiento (FREE SOFA)
 
 Descripción: Para el servicio de compartir alojamiento, se ha evaluado las web Badi, CouchSurfing, ComparteTuPiso. Se ha escogido Couchsurfing para su estudio de usabilidad. Esta web ha sido la que proporciona una funcionalidad mas completa de las evaluadas.
 
@@ -11,7 +11,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Miguel García Tenorio     :octocat:[migueg](https://github.com/migueg/DIU20)     
- * :bust_in_silhouette:  BB     :octocat:
+
 
 ----- 
 
@@ -20,17 +20,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
-
-## DIU - Practica1, entregables
-
-
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
 
 
 # Proceso de Diseño 
