@@ -35,10 +35,10 @@ Couchsurfing es el servicio que proporciona mejor calidad/precio y por eso es el
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-
  La primera persona elegida es [Nathan](https://github.com/migueg/DIU20/blob/master/P1/Nathan.PNG). Esta persona, es un joven, que ha acabado su carrera y va a comenzar un año sabático. Representa el perfil de un usuario que adopta el rol de viajero o huesped.
 
 La segunda persona es [Maria](https://github.com/migueg/DIU20/blob/master/P1/Maria.PNG). Esta persona , es una funcionaria, que tiene pocos amigos y su rutina se esta volviendo en su condena. Maria encaja perfectamente con el segundo rol, que es el de huesped.
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
