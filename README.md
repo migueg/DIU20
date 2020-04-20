@@ -5,7 +5,7 @@ Grupo: DIU2.TeTic  Curso: 2019/20
 
 Proyecto: App de compartir alojamiento (FREE SOFA)
 
-Descripción: Para el servicio de compartir alojamiento, se ha evaluado las web Badi, CouchSurfing, ComparteTuPiso. Se ha escogido Couchsurfing para su estudio de usabilidad. Esta web ha sido la que proporciona una funcionalidad mas completa de las evaluadas.
+Descripción:En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist). En particular se pretende diseñar FREE SOFA. Está aplicación será una plataforma de economía colaborativa en lo referente a compartir alojamiento.
 
 Logotipo: ![Método UX](P3/logo.PNG)
 
@@ -15,12 +15,16 @@ Miembros
 
 ----- 
 
-En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
+
 
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
+>> ***¿ Cómo puedo viajar sin tener que pagarme un hotel ?
 
+Esta fue a pregunta que llevo al desarrollo del proyecto y me incentivó a aplicar los objetivos de economía colaborativa.
+
+Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
 # Proceso de Diseño 
 
@@ -28,9 +32,17 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+En primer lugar investigué y analize, emperesas que llevan a cabo esta propuesta y ofrecen la posibilidad de alojarse en otros lugares de manera mas barata.
 
-Para el servicio de compartir alojamiento , se ha evaluado Badi, CouchSurfing, ComparteTuPiso.
-Couchsurfing es el servicio que proporciona mejor calidad/precio y por eso es el servicio candidato.
+Para el servicio de compartir alojamiento, evalué las web de Badi, de CouchSurfing y de ComparteTuPiso. Todas ellas ofreían una manera alternativa de alojarse de manera mucho mas barato o incluso gratis a cambio de experiencias. Todas ellas tenían en común:
++ Existen mensajes entre usuarios.
++ Existen solicitudes de alojomientos
++ Hay dos roles: viajeros y anfitriones.
++ Existe un buscador de alojamiento por localidad.
++ Están vinculadas a las redes sociales.
+
+Tras obtener los puntos comunes se escogió Couchsurfing para su estudio de usabilidad, ya que ha sido la que proporciona una funcionalidad más completa de las evaluadas.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
