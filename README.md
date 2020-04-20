@@ -8,7 +8,7 @@ Proyecto: App de compartir alojamiento (FREE SOFA)
 Descripción: Para el servicio de compartir alojamiento, se ha evaluado las web Badi, CouchSurfing, ComparteTuPiso. Se ha escogido Couchsurfing para su estudio de usabilidad. Esta web ha sido la que proporciona una funcionalidad mas completa de las evaluadas.
 
 Logotipo: ![Método UX](P3/logo.PNG)
-
+----
 Miembros
  * :bust_in_silhouette:   Miguel García Tenorio     :octocat:[migueg](https://github.com/migueg/DIU20)     
 
