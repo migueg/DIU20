@@ -168,7 +168,7 @@ El guideline que se propone sigue las pautas del guideline para IOS ya que se es
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
-![Video](https://youtu.be/YD0msLorQco)
+[Video](https://youtu.be/YD0msLorQco)
 
 
 ## Paso 4. UX Check (Usability Testing) 
