@@ -42,6 +42,7 @@ Para diseñar este logo se ha utilizado un portal online para el diseño gratuit
 
 ![Método UX](../img/mockup.png)  3.d Video
 ----
+[Vídeo](https://youtu.be/YD0msLorQco)
 
 ### Conclusión
 ----
