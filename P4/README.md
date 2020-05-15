@@ -3,7 +3,8 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 ## Paso 4. Evaluación 
 4.a Casos asigandos
 -----
-**Caso1**
+>**Caso1**
+
 El primer caso evaluado es el del equipo DIU1_1SHOT que nos ofrece la propuesta diseño de Share to fly una app basada en la experiencia de compartir viajes que busca otener un modelo de app que convine los viajes con una red social, tomando como punto de partida la app Passporter y ofrciendo una prupuesta de valor a partir de esta, basada en la mejora de las búsquedas y la posibilidad del usuario de poder crear y gestionar itinerarios de viajes que puedan utilizar el resto usuarios. 
 
 
