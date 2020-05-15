@@ -21,8 +21,9 @@ Los puntos débiles del diseño son:
 + La idea que percibes cuando observas el sitemap y el labelling es contraria a la que muestran los bocetos que no se adaptan muy bien a la estructura del sitemap.
 
 Enlace en formato xls : https://github.com/migueg/DIU20/blob/master/P4/ShareToFly-review.xls
+
 Enlace en formato pdf:  https://github.com/migueg/DIU20/blob/master/P4/ShareToFly-review.pdf
-![matrix](P2/UserTaskmatrix.PNG)
+
 **Caso 2**
 
 
