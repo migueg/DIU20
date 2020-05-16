@@ -45,6 +45,7 @@ Enlace en formato xls : https://github.com/migueg/DIU20/blob/master/P4/KingCouch
 Enlace en formato pdf:  https://github.com/migueg/DIU20/blob/master/P4/KingCouch-review.pdf
 
 >**Caso 3**
+
 El tercer caso evaluado es el del equipo DIU3_BNET que nos ofrece la propuesta de diseño de EventWORLD, una app basada en la experiencia de compartir eventos que nos permitirá elegir y/o reservar cualquier tipo de evento, así como recomendar a otros usuarios eventos ya realizados, valorarlos y reservarlos. En un primer lugar la app fue pensada para la web pero se cambió de decisión a una app para movil a medida que se avanzo en el diseño.
 
 Después de la evaluación de este caso se han obtenido los siguientes tres puntos fuertes:
